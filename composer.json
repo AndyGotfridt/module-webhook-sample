@@ -1,7 +1,7 @@
 {
   "name": "mifacturadigital/module-webhook-sample",
   "description": "Testing Satis",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "require": {
   },
   "autoload": {
