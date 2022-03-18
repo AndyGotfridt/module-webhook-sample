@@ -1,1 +1,15 @@
-
+{
+  "name": "mifacturadigital/SandboxWebHooks",
+  "description": "Testing Satis",
+  "version": "1.0.1",
+  "require": {
+  },
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "MiFacturaDigital\\SandboxWebHooks\\": ""
+    }
+  }
+}
